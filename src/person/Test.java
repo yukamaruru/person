@@ -18,6 +18,18 @@ public class Test {
 		
 		System.out.println(taro.name);
 		System.out.println(taro.age);
+		
+		taro.name="鈴木花子";
+		taro.age=16;
+		
+		System.out.println(taro.name);
+		System.out.println(taro.age);
+		
+		taro.name="山田宥佳";
+		taro.age=24;
+		
+		System.out.println(taro.name);
+		System.out.println(taro.age);
 	}
 
 }
