@@ -59,6 +59,25 @@ public class Test {
 		taro.talk();
 		taro.walk();
 		taro.run();
+		
+		
+		taro.name="aibo";
+		taro.talk();
+		taro.walk();
+		taro.run();
+		
+		
+		taro.name="asimo";
+		taro.talk();
+		taro.walk();
+		taro.run();
+		
+		
+		taro.name="pepper";
+		taro.talk();
+		taro.walk();
+		taro.run();
+		
 	}
 
 }
